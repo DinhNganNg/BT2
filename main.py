@@ -1,3 +1,3 @@
 import streamlit as st
-import PIL import images
-import
+from PIL import Image
+import pickle as pkl
