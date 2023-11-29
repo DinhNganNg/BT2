@@ -3,7 +3,7 @@ from PIL import Image
 import pickle as pkl
 import numpy as np
 
-class_list = {'0': 'Normal', '0': 'Pneumonia'}
+class_list = {'0': 'Normal', '1': 'Pneumonia'}
 
 st.title('Pneumonia Detection')
 
